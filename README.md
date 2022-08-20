@@ -16,7 +16,7 @@ Linux için;
     cd patika-css-odev2
     code .
 # Live Demo
-[Demoyu Aç](https://judicious-silver-syrup.glitch.me)
+[Demoyu Aç](https://tundra-adaptive-sandalwood.glitch.me)
 
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğiniz tartışmak için bir konu açınız.
